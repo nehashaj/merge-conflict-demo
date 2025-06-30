@@ -1,1 +1,2 @@
-# merge-conflict-demoThis line is from the main branch.
+This line is from both the main and feature branches.
+
